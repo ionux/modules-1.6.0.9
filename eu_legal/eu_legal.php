@@ -173,6 +173,7 @@ class EU_Legal extends Module
 			'ogone' => 'EU Ogone',
 			'sofortbanking' => 'EU Sofortbanking',
 			'cashondelivery' => 'EU Cash on delivery',
+			'bitpay' => 'BitPay',
 
 			/*'gc_newsletter' => 'Newsletter',
 			'gc_blockcart'  => 'Warenkorb Block',*/
